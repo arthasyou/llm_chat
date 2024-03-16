@@ -1,0 +1,10 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "The current Language"
+    },
+    "app_name": "LLM Chat",
+    "@language": {
+        "description": "The app Name"
+    }
+}
