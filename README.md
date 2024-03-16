@@ -1,4 +1,4 @@
-# exchange
+# fluter llm chat demo
 
 A new Flutter project.
 
